@@ -1,0 +1,11 @@
+> misDatos <- data.frame(sexo,edad,puesto,dni)
+> misDatos
+  sexo edad      puesto      dni
+1    M   23    director 23342340
+2    M   22  secretaria 12344771
+3    F   25 coordinador 55624432
+> #Nombre <- c("Ana","Juana","Katherine")#
+> sexo <- c("M","M","F")
+> edad <- c(23, 22, 25)
+> puesto <- c("director","secretaria","coordinador")
+> dni <- c(23342340,12344771,55624432)
